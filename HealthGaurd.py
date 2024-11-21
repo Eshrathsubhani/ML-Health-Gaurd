@@ -23,7 +23,7 @@ heart_disease_model = pickle.load(open("C:/Users/eshra/OneDrive/Desktop/ML Healt
 
 # sidebar for navigation
 with st.sidebar:
-    selected = option_menu('ML Health Gaurd',
+    selected = option_menu(' Health Gaurd',
 
                            ['Diabetes Prediction',
                             'Heart Disease Prediction',
